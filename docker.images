@@ -1,0 +1,22 @@
+REPOSITORY                       TAG                 IMAGE ID            CREATED             SIZE
+besishehu/node-app               latest              b5c1a95f750b        9 minutes ago       907MB
+<none>                           <none>              fcdd0f71528b        5 hours ago         903MB
+node                             10                  d5680e53a228        4 days ago          903MB
+composetest_web                  latest              d7c1b6a93db0        13 days ago         214MB
+python-test                      latest              145b4c30d525        13 days ago         932MB
+ubuntu                           latest              775349758637        3 weeks ago         64.2MB
+busybox                          latest              020584afccce        4 weeks ago         1.22MB
+nginx                            latest              540a289bab6c        5 weeks ago         126MB
+redis                            alpine              6f63d037b592        5 weeks ago         29.3MB
+python                           3.7-alpine          b11d2a09763f        5 weeks ago         98.8MB
+python                           latest              d6a7b0694364        5 weeks ago         932MB
+mysql                            latest              c8ee894bd2bd        5 weeks ago         456MB
+postgres                         9.4                 36726735dc3c        5 weeks ago         206MB
+redis                            4.0                 e187e861db44        5 weeks ago         89.2MB
+redis                            latest              de25a81a5a0b        5 weeks ago         98.2MB
+kodekloud/simple-prompt-docker   latest              c0848fde57d1        3 months ago        4.41MB
+nginx                            1.14-alpine         8a2fb25a19f5        7 months ago        16MB
+hello-world                      latest              fce289e99eb9        11 months ago       1.84kB
+kodekloud/simple-webapp          latest              c6e3cd9aae36        13 months ago       84.8MB
+kodekloud/webapp                 latest              1a45ba829f10        2 years ago         432MB
+docker/whalesay                  latest              6b362a9f73eb        4 years ago         247MB
